@@ -29,3 +29,19 @@ input[type="range"] {
     width: 200px;
     margin: 10px 0;
 }
+
+input[type="color"] {
+    width: 50px;
+    height: 30px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+input[type="text"]#colorName {
+    width: 100px;
+    padding: 10px;
+    font-size: 16px;
+    margin: 10px;
+}
